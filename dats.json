@@ -1,4 +1,4 @@
-{
+alsa-ucm-conirt{
 	"database/metadat/redump/Microsoft - Xbox": {
 		"files": [
 			"input/redump/xbox/Microsoft - Xbox - Dat*.dat"
@@ -194,6 +194,11 @@
 			"input/tosec/TOSEC/Mattel Intellivision - Games*"
 		]
 	},
+	"database/metadat/tosec/Coleco - Colecovision": {
+		"files": [
+			"input/tosec/TOSEC/Coleco Colecovision - Games*"
+		]
+	},
 	"database/metadat/tosec/Nintendo - GameCube": {
 		"files": [
 			"input/tosec/TOSEC-ISO/Nintendo GameCube - Games*"
@@ -222,6 +227,16 @@
 	"database/metadat/tosec/Nintendo - Game Boy Advance": {
 		"files": [
 			"input/tosec/TOSEC/Nintendo Game Boy Advance - Games*"
+		]
+	},
+	"database/metadat/tosec/Nintendo - Virtual Boy": {
+		"files": [
+			"input/tosec/TOSEC/Nintendo Virtual Boy - Games*"
+		]
+	},	
+	"database/metadat/tosec/Nintendo - Pokemon Mini": {
+		"files": [
+			"input/tosec/TOSEC/Nintendo Pokemon Mini - Games*"
 		]
 	},
 	"database/metadat/tosec/Sega - Mega Drive - Genesis": {
