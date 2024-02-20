@@ -209,6 +209,16 @@
 			"input/tosec/TOSEC-ISO/NEC PC-FX - Games*"
 		]
 	},
+	"database/metadat/no-intro/SNK - Neo Geo Pocket": {
+		"files": [
+			"input/tosec/TOSEC/SNK Neo-Geo Pocket - Games*"
+		]
+	},
+	"database/metadat/no-intro/SNK - Neo Geo Pocket Color": {
+		"files": [
+			"input/tosec/TOSEC/SNK Neo-Geo Pocket Color - Games*"
+		]
+	},
 	"database/metadat/tosec/Mattel - Intellivision": {
 		"files": [
 			"input/tosec/TOSEC/Mattel Intellivision - Games*"
