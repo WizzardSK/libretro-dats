@@ -119,6 +119,26 @@
 			"input/darkwater/Saturn*"
 		]
 	},
+	"database/metadat/tosec/Microsoft - MSX2": {
+		"files": [
+			"input/tosec/TOSEC/MSX MSX2 - Games*"
+		]
+	},
+	"database/metadat/tosec/Microsoft - MSX": {
+		"files": [
+			"input/tosec/TOSEC/MSX MSX - Games*"
+		]
+	},
+	"database/metadat/tosec/DOS": {
+		"files": [
+			"input/tosec/TOSEC/IBM PC Compatibles - Games*"
+		]
+	},
+	"database/metadat/tosec/Nintendo - Family Computer Disk System": {
+		"files": [
+			"input/tosec/TOSEC/Nintendo Famicom Disk System - Games*"
+		]
+	},
 	"database/metadat/tosec/Philips - Videopac+": {
 		"files": [
 			"input/tosec/TOSEC/Philips Videopac+ - Games*"
