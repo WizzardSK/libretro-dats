@@ -119,6 +119,26 @@
 			"input/darkwater/Saturn*"
 		]
 	},
+	"database/metadat/tosec/Watara - Supervision": {
+		"files": [
+			"input/tosec/TOSEC/Watara Supervision - Games*"
+		]
+	}
+	"database/metadat/tosec/Epoch - Super Cassette Vision": {
+		"files": [
+			"input/tosec/TOSEC/Epoch Super Cassette Vision - Games*"
+		]
+	},
+	"database/metadat/tosec/Bandai - WonderSwan": {
+		"files": [
+			"input/tosec/TOSEC/Bandai WonderSwan - Games*"
+		]
+	},
+	"database/metadat/tosec/Bandai - WonderSwan Color": {
+		"files": [
+			"input/tosec/TOSEC/Bandai WonderSwan Color - Games*"
+		]
+	},
 	"database/metadat/tosec/Atari - 8-bit": {
 		"files": [
 			"input/tosec/TOSEC/Atari 8bit - Games*"
@@ -209,12 +229,12 @@
 			"input/tosec/TOSEC-ISO/NEC PC-FX - Games*"
 		]
 	},
-	"database/metadat/no-intro/SNK - Neo Geo Pocket": {
+	"database/metadat/tosec/SNK - Neo Geo Pocket": {
 		"files": [
 			"input/tosec/TOSEC/SNK Neo-Geo Pocket - Games*"
 		]
 	},
-	"database/metadat/no-intro/SNK - Neo Geo Pocket Color": {
+	"database/metadat/tosec/SNK - Neo Geo Pocket Color": {
 		"files": [
 			"input/tosec/TOSEC/SNK Neo-Geo Pocket Color - Games*"
 		]
