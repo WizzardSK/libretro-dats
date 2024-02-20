@@ -184,6 +184,16 @@
 			"input/tosec/TOSEC/Infocom Z-Machine - *"
 		]
 	},
+	"database/metadat/tosec/NEC - PC Engine SuperGrafx": {
+		"files": [
+			"input/tosec/TOSEC/NEC SuperGrafx - Games*"
+		]
+	},
+	"database/metadat/tosec/NEC - PC Engine - TurboGrafx 16": {
+		"files": [
+			"input/tosec/TOSEC/NEC PC-Engine & TurboGrafx-16 - Games*"
+		]
+	},
 	"database/metadat/tosec/NEC - PC Engine CD - TurboGrafx-CD": {
 		"files": [
 			"input/tosec/TOSEC-ISO/NEC PC-Engine CD*"
