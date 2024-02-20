@@ -119,6 +119,26 @@
 			"input/darkwater/Saturn*"
 		]
 	},
+	"database/metadat/tosec/Philips - Videopac+": {
+		"files": [
+			"input/tosec/TOSEC/Philips Videopac+ - Games*"
+		]
+	},
+	"database/metadat/tosec/Magnavox - Odyssey2": {
+		"files": [
+			"input/tosec/TOSEC/Magnavox Odyssey2 - Games*"
+		]
+	},
+	"database/metadat/tosec/GCE - Vectrex": {
+		"files": [
+			"input/tosec/TOSEC/GCE Vectrex - Games*"
+		]
+	},
+	"database/metadat/tosec/Fairchild - Channel F": {
+		"files": [
+			"input/tosec/TOSEC/Fairchild VES & Channel F - Games*"
+		]
+	},
 	"database/metadat/tosec/Watara - Supervision": {
 		"files": [
 			"input/tosec/TOSEC/Watara Supervision - Games*"
