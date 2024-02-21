@@ -119,6 +119,11 @@
 			"input/darkwater/Saturn*"
 		]
 	},
+	"database/metadat/tosec/Philips - CD-i": {
+		"files": [
+			"input/tosec/TOSEC-ISO/Philips CD-i - Games*"
+		]
+	},
 	"database/metadat/tosec/Microsoft - MSX2": {
 		"files": [
 			"input/tosec/TOSEC/MSX MSX2 - Games*"
