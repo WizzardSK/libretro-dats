@@ -137,6 +137,7 @@
 	"database/metadat/tosec/DOS": {
 		"files": [
 			"input/tosec/TOSEC/IBM PC Compatibles - Games*"
+			"input/tosec/TOSEC-ISO/IBM PC Compatibles - CD - Games*"
 		]
 	},
 	"database/metadat/tosec/Nintendo - Family Computer Disk System": {
