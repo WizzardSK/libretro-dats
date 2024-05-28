@@ -38,8 +38,11 @@ function validEntry(gameName) {
 		return false
 	}
 
-	// Skip all programs.
+	// Skip all demos and programs.
 	if (gameName.indexOf('(Test Program)') >= 0) {
+		return false
+	}
+	if (gameName.indexOf(' (Demo)') >= 0) {
 		return false
 	}
 	if (gameName.indexOf('(Program)') >= 0) {
@@ -52,6 +55,12 @@ function validEntry(gameName) {
 		return false
 	}
 	if (gameName.indexOf('Super Nintendo Tester') >= 0) {
+		return false
+	}
+
+	// The serial conflicts with Sonic Adventure 2
+	// https://github.com/libretro/libretro-database/issues/1444
+	if (gameName.indexOf('Phantasy Star Online' >= 0) && gameName.indexOf('(Rev B)') >= 0) {
 		return false
 	}
 
